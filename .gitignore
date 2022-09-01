@@ -1,0 +1,10 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+dist
+.idea
+package-lock.json
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
