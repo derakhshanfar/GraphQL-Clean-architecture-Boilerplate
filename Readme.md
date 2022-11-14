@@ -1,4 +1,4 @@
-#  GraphQL todo-list-api
+#  GraphQL Clean architecture Boilerplate
 
 In this project I create a todo list API with authentication and authorization using GraphQL, typescript, Sequelize.
 I tried to apply my understanding of Uncle bob clean architecture style to my code. Because I do believe the combination of dependency inversion and single responsibilities can make code testable and decoupled from each layer.
